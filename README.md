@@ -59,12 +59,16 @@ The analysis generated multiple visualizations:
 - **Sentiment Distribution Bar Chart** (`sentiment_distribution.png`):
   - Displays counts of positive, negative, and neutral sentiments.
   - Example: Approximately 250 positive, 200 neutral, 50 negative comments.
+  - ![Alt text](https://github.com/ali-aj/sentiment_fashion/blob/104bf159162bf1ce3a20db85e2f981a0448627be/sentiment_distribution.png)
 - **Sentiment Trends Line Graph** (`sentiment_trends.png`):
   - Tracks sentiment proportions over time (January to May 2024).
   - Observations: Positive sentiment rose to 0.55 by May, negative remained stable at ~0.1.
+  - ![Alt text](https://github.com/ali-aj/sentiment_fashion/blob/104bf159162bf1ce3a20db85e2f981a0448627be/sentiment_trends.png)
 - **Word Clouds**:
   - **Positive Word Cloud** (`positive_wordcloud.png`): Highlights terms like "breathtaking," "quality," "modern."
+  - ![Alt text](https://github.com/ali-aj/sentiment_fashion/blob/104bf159162bf1ce3a20db85e2f981a0448627be/positive_wordcloud.png)
   - **Negative Word Cloud** (`negative_wordcloud.png`): Features terms like "delayed," "website crashed," "poor quality."
+  - ![Alt text](https://github.com/ali-aj/sentiment_fashion/blob/104bf159162bf1ce3a20db85e2f981a0448627be/negative_wordcloud.png)
 
 ## Results and Findings
 - **Sentiment Distribution**: Predominantly positive sentiment (~50%), followed by neutral (~40%), and a minority negative (~10%), indicating favorable customer perception.
